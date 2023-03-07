@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.4.0.schema.json
+
+PackageIdentifier: Victoria.Victoria
+PackageVersion: 5.37
+InstallerType: zip
+ReleaseDate: 2021-10-14
+Installers:
+- Architecture: x86
+  NestedInstallerType: portable
+  NestedInstallerFiles:
+  - RelativeFilePath: Victoria537/Victoria.exe
+    PortableCommandAlias: victoria
+  InstallerUrl: https://hdd.by/Victoria/Victoria537.zip
+  InstallerSha256: a66b7869d59bbf90b5994332bac57bcbc0b377cee9f0c59c078795ea7b4c99d1
+ManifestType: installer
+ManifestVersion: 1.4.0

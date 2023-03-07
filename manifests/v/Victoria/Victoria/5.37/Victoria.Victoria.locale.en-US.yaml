@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.4.0.schema.json
+
+PackageIdentifier: Victoria.Victoria
+PackageVersion: 5.37
+PackageLocale: en-US
+Publisher: Victoria
+PublisherUrl: https://hdd.by/
+PublisherSupportUrl: https://hdd.by/victoria5_faq/
+# PrivacyUrl:
+Author: Сергей Казанский
+PackageName: Victoria
+PackageUrl: https://hdd.by/victoria/
+License: Freeware
+# LicenseUrl: 
+Copyright: Технический центр «Victoria» 2004-2022, Беларусь. © Сергей Казанский.
+# CopyrightUrl: 
+ShortDescription: Program to diagnose, research, test and repair HDDs, SSDs, SD-cards and other types of storage in Windows
+# Description: 
+Moniker: victoria
+Tags:
+- hdd
+- ssd
+- sdcard
+- disk
+- drive
+- diagnostic
+- research
+- test
+- repair
+- storage
+# Agreements:
+# ReleaseNotes:
+ReleaseNotesUrl: https://hdd.by/victoria/
+# PurchaseUrl:
+# InstallationNotes:
+# Documentations:
+ManifestType: defaultLocale
+ManifestVersion: 1.4.0
